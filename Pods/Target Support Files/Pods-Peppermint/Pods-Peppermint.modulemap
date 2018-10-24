@@ -1,0 +1,6 @@
+framework module Pods_Peppermint {
+  umbrella header "Pods-Peppermint-umbrella.h"
+
+  export *
+  module * { export * }
+}
